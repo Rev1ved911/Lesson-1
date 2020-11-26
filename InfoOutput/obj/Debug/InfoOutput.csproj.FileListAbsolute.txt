@@ -1,0 +1,6 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\bin\Debug\InfoOutput.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\bin\Debug\InfoOutput.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\bin\Debug\InfoOutput.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\obj\Debug\InfoOutput.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\obj\Debug\InfoOutput.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\InfoOutput\obj\Debug\InfoOutput.pdb
