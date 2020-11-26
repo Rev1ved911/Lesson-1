@@ -17,8 +17,8 @@ namespace ConsoleApp1
             Console.WriteLine("Enter your name");
             name = Console.ReadLine();
             //Console.WriteLine("Enter your age");
-            //age = Console.ReadLine();
-            Console.WriteLine("Hello " + name);
+            //age = Console.Read();
+            Console.WriteLine("Hello " + name /*+ " " + age*/);
             Console.ReadKey();
         }
     }
