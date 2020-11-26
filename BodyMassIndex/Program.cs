@@ -10,22 +10,14 @@ namespace BodyMassIndex
     {
         static void Main(string[] args)
         {
-            string Name, Surname;
-            double Age, Growth_M, Weight, Index, Growth_CM;
-            Console.Write("Введите ваше имя: ");
-            Name = Console.ReadLine();
-            Console.Write("Введите вашу фамилию: ");
-            Surname = Console.ReadLine();
-            Console.Write("Введите ваш возраст: ");
-            Age = Convert.ToDouble(Console.ReadLine());
+            double Growth_M, Weight, Index, Growth_CM;
             Console.Write("Введите ваш рост в см.: ");
             Growth_CM = Convert.ToDouble(Console.ReadLine());
             Console.Write("Введите ваш вес в кг.: ");
             Weight = Convert.ToDouble(Console.ReadLine());
             Growth_M = Growth_CM / 100;
-            Console.WriteLine($" \n   Имя:{Name}\n   Фамилия:{Surname}\n   Возраст{Age}лет\n   Рост:{Growth_M}м.\n   Вес:{Weight}кг.");
             Index = Weight / (Growth_M * Growth_M);
-            Console.WriteLine($"   Индекс вашей массы тела (ИМТ) составляет:{Index}");
+            Console.WriteLine($"\n   Индекс вашей массы тела (ИМТ) составляет: {Index}");
             Console.ReadKey();
         }
     }
