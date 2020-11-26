@@ -18,6 +18,7 @@ namespace BodyMassIndex
             Growth_M = Growth_CM / 100;
             BMIndex = Weight / (Growth_M * Growth_M);
             Console.WriteLine($"\n   Индекс вашей массы тела (ИМТ) составляет: {BMIndex.ToString("f2")}");
+            Console.Write("Press any key to exit...");
             Console.ReadKey();
         }
     }
