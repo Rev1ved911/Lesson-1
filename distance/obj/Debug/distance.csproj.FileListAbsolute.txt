@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\obj\Debug\distance.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\obj\Debug\distance.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\bin\Debug\distance.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\bin\Debug\distance.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\bin\Debug\distance.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\obj\Debug\distance.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\distance\obj\Debug\distance.pdb
