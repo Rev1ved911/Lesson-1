@@ -10,7 +10,11 @@ namespace ValueExchange
     {
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            #region Настройки консоли
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.Clear();
+            #endregion
         }
     }
 }

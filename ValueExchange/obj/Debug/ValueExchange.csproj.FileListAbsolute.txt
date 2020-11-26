@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\bin\Debug\ValueExchange.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\bin\Debug\ValueExchange.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\bin\Debug\ValueExchange.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\obj\Debug\ValueExchange.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\obj\Debug\ValueExchange.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\obj\Debug\ValueExchange.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\ValueExchange\obj\Debug\ValueExchange.pdb

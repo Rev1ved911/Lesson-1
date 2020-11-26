@@ -23,7 +23,13 @@ namespace distance
         }
         static void Main(string[] args)
         {
-            Console.ForegroundColor = ConsoleColor.Green;
+            #region Настройки консоли
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.BackgroundColor = ConsoleColor.White;
+            Console.Clear();
+            Console.SetWindowSize(59, 9);
+            Console.SetBufferSize(59, 9);
+            #endregion
             double x1, x2, y1, y2, r;
             Console.Write("Введите координаты первой точки:\nx1: ");
             x1 = Convert.ToDouble(Console.ReadLine()); 
