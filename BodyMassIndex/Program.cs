@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1
+namespace BodyMassIndex
 {
     class Program
     {
@@ -23,7 +23,9 @@ namespace ConsoleApp1
             Console.Write("Введите ваш вес в кг.: ");
             Weight = Convert.ToDouble(Console.ReadLine());
             Growth_M = Growth_CM / 100;
-            Console.WriteLine($" \n   Имя: {Name}\n   Фамилия: {Surname}\n   Возраст: {Age} лет\n   Рост: {Growth_M} м.\n   Вес: {Weight} кг.");
+            Console.WriteLine($" \n   Имя:{Name}\n   Фамилия:{Surname}\n   Возраст{Age}лет\n   Рост:{Growth_M}м.\n   Вес:{Weight}кг.");
+            Index = Weight / (Growth_M * Growth_M);
+            Console.WriteLine($"   Индекс вашей массы тела (ИМТ) составляет:{Index}");
             Console.ReadKey();
         }
     }
