@@ -8,6 +8,11 @@ namespace distance
 {
     class Program
     {
+        static double result(double x1, double y1, double x2, double y2)
+        {
+            double r = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+            return r;
+        }
         static void Main(string[] args)
         {
             double x1, x2, y1, y2, r;
@@ -19,7 +24,7 @@ namespace distance
             x2 = Convert.ToDouble(Console.ReadLine());
             Console.Write("y2: ");
             y2 = Convert.ToDouble(Console.ReadLine());
-            r = Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+            r = result(x1, y1, x2, y2);
             Console.WriteLine($"Расстояние между координатой {x1}.{y1} и {x2}.{y2} равно - {r.ToString("f2")}");
             Console.ReadKey();
         }
