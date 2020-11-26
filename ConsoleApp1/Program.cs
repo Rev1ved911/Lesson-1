@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string Name, Surname;
-            double Age, Growth_M, Weight, Index, Growth_CM;
+            double Age, Growth_M, Weight, Growth_CM;
             Console.Write("Введите ваше имя: ");
             Name = Console.ReadLine();
             Console.Write("Введите вашу фамилию: ");
@@ -24,7 +24,7 @@ namespace ConsoleApp1
             Weight = Convert.ToDouble(Console.ReadLine());
             Growth_M = Growth_CM / 100;
             Console.WriteLine($"\n   Имя: {Name}\n   Фамилия: {Surname}\n   Возраст: {Age} лет\n   Рост: {Growth_M} м.\n   Вес: {Weight} кг.");
-            Console.Write("Press any key to exit...");
+            Console.Write("\nPess any key to exit...");
             Console.ReadKey();
         }
     }
