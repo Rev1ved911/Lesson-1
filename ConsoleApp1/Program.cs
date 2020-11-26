@@ -11,12 +11,13 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             string name;
-            int age;
+            //int age;
             Console.WriteLine("Hello world!");
             Console.ReadKey();
             Console.WriteLine("Enter your name");
             name = Console.ReadLine();
- //           Console.WriteLine("Enter your age");
+            //Console.WriteLine("Enter your age");
+            //age = Console.ReadLine();
             Console.WriteLine("Hello " + name);
             Console.ReadKey();
         }
