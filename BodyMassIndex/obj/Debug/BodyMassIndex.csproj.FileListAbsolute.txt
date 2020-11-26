@@ -1,0 +1,7 @@
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\obj\Debug\BodyMassIndex.csprojAssemblyReference.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\Rev1ved\Desktop\Git project\Lesson 1\Lesson 1\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
