@@ -10,6 +10,7 @@ namespace ValueExchange
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
         }
     }
 }

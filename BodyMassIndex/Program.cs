@@ -16,6 +16,7 @@ namespace BodyMassIndex
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             double Growth_M, Weight, BMIndex, Growth_CM;
             Console.Write("Введите ваш рост в см.: ");
             Growth_CM = Convert.ToDouble(Console.ReadLine());

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BodyMassIndex", "..\BodyMas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance", "..\distance\Distance.csproj", "{736E98E5-FA79-4424-94A3-9F65AA31392B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueExchange", "..\ValueExchange\ValueExchange.csproj", "{ECA9440B-7A76-43A8-B802-EFA014FA532B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{736E98E5-FA79-4424-94A3-9F65AA31392B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{736E98E5-FA79-4424-94A3-9F65AA31392B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{736E98E5-FA79-4424-94A3-9F65AA31392B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECA9440B-7A76-43A8-B802-EFA014FA532B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECA9440B-7A76-43A8-B802-EFA014FA532B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECA9440B-7A76-43A8-B802-EFA014FA532B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECA9440B-7A76-43A8-B802-EFA014FA532B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

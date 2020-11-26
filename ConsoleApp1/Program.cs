@@ -20,6 +20,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.ForegroundColor = ConsoleColor.Green;
             string Name, Surname;
             double Age, Growth_M, Weight, Growth_CM;
             Console.Write("Введите ваше имя: ");
