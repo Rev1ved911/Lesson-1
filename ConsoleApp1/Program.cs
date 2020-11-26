@@ -10,15 +10,23 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string name;
-            //int age;
-            Console.WriteLine("Hello world!");
-            Console.ReadKey();
-            Console.WriteLine("Enter your name");
-            name = Console.ReadLine();
-            //Console.WriteLine("Enter your age");
-            //age = Console.Read();
-            Console.WriteLine("Hello " + name /*+ " " + age*/);
+            string Name, Surname;
+            double Age, Growth_M, Weight, Index, Growth_CM;
+            Console.Write("Введите ваше имя: ");
+            Name = Console.ReadLine();
+            Console.Write("Введите вашу фамилию: ");
+            Surname = Console.ReadLine();
+            Console.Write("Введите ваш возраст: ");
+            Age = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Введите ваш рост в см.: ");
+            Growth_CM = Convert.ToDouble(Console.ReadLine());
+            Console.Write("Введите ваш вес в кг.: ");
+            Weight = Convert.ToDouble(Console.ReadLine());
+            Growth_M = Growth_CM / 100;
+            Console.WriteLine($" \n   Имя:{Name}\n   Фамилия:{Surname}\n   Возраст{Age}лет\n   Рост:{Growth_M}м.\n   Вес:{Weight}кг.");
+            Index = Weight / (Growth_M * Growth_M);
+            Console.WriteLine($"   Индекс вашей массы тела (ИМТ) составляет:{Index}");
+            
             Console.ReadKey();
         }
     }
